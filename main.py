@@ -1,1 +1,3 @@
-print('hola')
+print('...')
+def prueba():
+  return 0
