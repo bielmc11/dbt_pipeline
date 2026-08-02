@@ -1,0 +1,23 @@
+# Python / entorno virtual
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secretos / configuracion
+.env
+.env.*
+
+# Logs
+logs/
+
+# dbt
+netflixdata/target/
+netflixdata/dbt_packages/
+dbt_packages/
+netflixdata/logs/
+
+# OS / editores
+.DS_Store
+.idea/
+.vscode/
